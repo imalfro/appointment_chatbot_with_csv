@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 python-dotenv = "*"
 pandas = "*"
+streamlit = "*"
 langchain = "*"
 langchain_experimental = "*"
 langchain_openai = "*"
